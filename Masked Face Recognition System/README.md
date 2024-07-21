@@ -41,10 +41,9 @@ FaceRecognition/
    cd FaceRecognition
 
 2. Install the required packages:
-  ```bash
-  pip install -r requirements.txt
+  pip install -r requirements.txt.
 
-Usage
+## Usage
 1. Training the Model:
   Add your training images to the trainingImages/ directory.
   Run the resizeImages.py script to resize the training images
@@ -60,7 +59,7 @@ Usage
   python videoTester.py
 
 
-Contributing
+## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue if you have any suggestions or improvements.
 
 
