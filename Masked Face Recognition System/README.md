@@ -41,7 +41,8 @@ FaceRecognition/
    cd FaceRecognition
 
 2. Install the required packages:
-  pip install -r requirements.txt.
+   ```bash
+  pip install -r requirements.txt
 
 ## Usage
 1. Training the Model:
