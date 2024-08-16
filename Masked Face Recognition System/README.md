@@ -13,7 +13,7 @@ FaceRecognition/
 ├── trainingImages/
 ├── HaarCascade/
 ├── resizedTrainingImages/
-└── TestImages/
+└── TestImages
 
 
 ## Files and Directories
